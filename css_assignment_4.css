@@ -1,0 +1,155 @@
+*{
+	font-family: arial;
+}
+body{
+	margin: 0px;
+	width: 960px;
+}
+img{
+	display: inline-block;
+}
+h4{
+	margin: 0px;
+	padding: 5px;
+	display: block;
+	background: #FFCC33;
+	position: relative;
+	font-size: 10pt;
+}
+.header{
+	height: 140px;
+	margin: 0px;
+	background: #F8F8F8;
+}
+#PPC{
+	margin-left: 17px;
+}
+#phone{
+	display: inline-block;
+	margin-right: 60px;
+	float: right;
+	padding-top: 20px;
+	font-size: 13pt;
+}
+.nav li{
+	display: inline-block;
+	color:grey;
+	list-style-type:none;
+	color:grey;
+	margin-left: 10px;
+	border-left: 1px solid grey;
+	padding-left: 10px;
+}
+.nav li a{
+	color:grey;
+	font-size: 10pt;
+	margin-left: 10px;
+	text-decoration: none;
+}
+.nav{
+	margin: 0 auto;
+	background: #E8E8E8;
+	display: block;
+	position: absolute;
+	width: 960px;
+}
+.nav ul{
+	height: 50px;
+	margin: 0 auto;
+}
+.container{
+	margin: 0 auto;
+	background: black;	
+}
+.class{
+	clear: both;
+}
+.about{
+	width: 480px;
+	background: #585858;
+	float: right;
+	height: 275px;
+	margin: 20px;
+}
+.about p{
+	font-size: 8pt;
+	font-family: sans-serif;
+	color: white;
+	margin: 20px;
+}
+.about-header{
+	margin: 0px;
+}
+.sub-about{
+	font-size: 13pt;
+	top: 15px;
+	color: white;
+	margin: 20px;
+}
+.img{
+	width: 400px;
+	float: left;
+	position: relative;
+	margin:20px;
+	margin-right: 8px;	
+}
+#auto, #commercial, #industrial, #diesel{
+	width: 210px;
+	height: 300px;
+	display: inline-block;
+	background: white;
+	margin: 8px;
+	vertical-align: top;
+}
+.button{
+	margin-top: 35px;
+	margin-left: 100px;
+}
+#auto p{
+	margin: 10px;
+	font-size: 8pt;
+	font-family: sans-serif;	
+} 
+#commercial p{
+	margin: 10px;
+	font-size: 8pt;
+	font-family: sans-serif;
+} 
+#industrial p{
+	margin: 10px;
+	font-size: 8pt;
+	font-family: sans-serif;
+} 
+#diesel p{
+	margin: 10px;
+	font-size: 8pt;
+	font-family: sans-serif;
+}
+#auto{
+	margin-left: 28px;
+}
+
+/*.commercial{
+	width: 240px;
+	height: 280px;
+	display: inline-block;
+	margin: 15px;
+	background: white;
+
+}
+.industrial{
+	width: 240px;
+	height: 280px;
+	display: inline-block;
+	margin: 2px;
+
+	background: white;
+
+
+}
+.diesel{
+	width: 240px;
+	height: 280px;
+	display: inline-block;
+	margin: 10px;
+	background: white;*/
